@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #提升权限
-sudo su
+#sudo su
 
 #下载安装包
 wget https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh

@@ -1,4 +1,4 @@
-！/bin/bash
+#!/bin/bash
 
 cp config_server.json /usr/local/etc/v2ray/
 cd /usr/local/etc/v2ray
